@@ -1,0 +1,6 @@
+The task is to develop a machine learning model that can predict the SUCCess rate of
+startups based on various attributes and features. Startup SUCCeSS rate prediction involves
+analyzing factors such as funding, team composition, industry, market trends, and other
+relevant variables to estimate the likelihood of a startup's SUCCeSS. The goal is to create a
+model that can accurately predict the SUCCess or failure of startups, assisting
+entrepreneurs, investors, and stakeholders in making informed decisions.

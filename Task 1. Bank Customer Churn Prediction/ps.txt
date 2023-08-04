@@ -1,0 +1,4 @@
+The task is to train a machine learning model to predict whether a bank customer will churn
+(leave the bank) or not based on various customer attributes and banking behavior. The goall
+is to create a model that can accurately identify customers who are likely to churn, enabling
+proactive retention strategies.
